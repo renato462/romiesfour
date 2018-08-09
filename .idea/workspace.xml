@@ -25,32 +25,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="contacto.html" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/contacto.html">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="-935">
-                    <caret line="314" column="72" selection-start-line="314" selection-start-column="72" selection-end-line="314" selection-end-column="72" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="send.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/php/mail/send.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="39" column="4" lean-forward="true" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+            <state relative-caret-position="229">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
               </folding>
@@ -98,7 +79,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="y" value="2" />
+    <option name="y" value="3" />
     <option name="width" value="1378" />
     <option name="height" value="733" />
   </component>
@@ -167,16 +148,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533661173095</updated>
-      <workItem from="1533661174948" duration="13984000" />
+      <workItem from="1533661174948" duration="14792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13984000" />
+    <option name="totallyTimeSpent" value="14792000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="2" width="1378" height="733" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="3" width="1378" height="733" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21927163" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -357,8 +337,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/php/mail/send.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="39" column="4" lean-forward="true" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+        <state relative-caret-position="229">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
           </folding>
@@ -367,8 +347,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contacto.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-935">
-          <caret line="314" column="72" selection-start-line="314" selection-start-column="72" selection-end-line="314" selection-end-column="72" />
+        <state relative-caret-position="187">
+          <caret line="414" column="220" selection-start-line="414" selection-start-column="220" selection-end-line="414" selection-end-column="220" />
         </state>
       </provider>
     </entry>
