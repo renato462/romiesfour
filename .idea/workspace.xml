@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fe5125b-89ce-45e7-909f-893411d283ab" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/img/logo-Ico.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/contact-form2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/mail/class.phpmailer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/mail/class.pop3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/mail/class.smtp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/mail/send.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/calidad.html" beforeDir="false" afterPath="$PROJECT_DIR$/calidad.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contacto.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacto.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/contact-form.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/contact-form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/newsletter-subscribe.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/newsletter-subscribe.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quienessomos.html" beforeDir="false" afterPath="$PROJECT_DIR$/quienessomos.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ventajas.html" beforeDir="false" afterPath="$PROJECT_DIR$/ventajas.html" afterDir="false" />
     </list>
@@ -17,57 +25,36 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="contacto.html" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/contacto.html">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="-935">
+                    <caret line="314" column="72" selection-start-line="314" selection-start-column="72" selection-end-line="314" selection-end-column="72" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="send.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/php/mail/send.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="639">
-              <caret line="796" column="201" selection-start-line="796" selection-start-column="201" selection-end-line="796" selection-end-column="201" />
+            <state relative-caret-position="161">
+              <caret line="39" column="4" lean-forward="true" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
+              </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="quienessomos.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quienessomos.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="546" column="201" selection-start-line="546" selection-start-column="201" selection-end-line="546" selection-end-column="201" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ventajas.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ventajas.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="620" column="201" selection-start-line="620" selection-start-column="201" selection-end-line="620" selection-end-column="201" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contacto.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contacto.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="416" column="194" selection-start-line="416" selection-start-column="194" selection-end-line="416" selection-end-column="194" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="calidad.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/calidad.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="572" column="201" selection-start-line="572" selection-start-column="201" selection-end-line="572" selection-end-column="201" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mailchimp.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php/mailchimp/mailchimp.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2530" />
           </provider>
         </entry>
       </file>
@@ -76,6 +63,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>https://www.facebook.com/</find>
+      <find>$arrResult</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -85,11 +73,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/contacto.html" />
-        <option value="$PROJECT_DIR$/calidad.html" />
-        <option value="$PROJECT_DIR$/ventajas.html" />
-        <option value="$PROJECT_DIR$/quienessomos.html" />
+        <option value="$PROJECT_DIR$/php/newsletter-subscribe.php" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/quienessomos.html" />
+        <option value="$PROJECT_DIR$/ventajas.html" />
+        <option value="$PROJECT_DIR$/calidad.html" />
+        <option value="$PROJECT_DIR$/php/contact-form.php" />
+        <option value="$PROJECT_DIR$/php/contact-form2.php" />
+        <option value="$PROJECT_DIR$/php/mail/send.php" />
+        <option value="$PROJECT_DIR$/contacto.html" />
       </list>
     </option>
   </component>
@@ -104,11 +96,11 @@
       <path value="$PROJECT_DIR$/vendor/simple-line-icons/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-82" />
-    <option name="y" value="157" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1378" />
+    <option name="height" value="733" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -124,6 +116,17 @@
               <item name="Romies" type="b2602c69:ProjectViewProjectNode" />
               <item name="Romies" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Romies" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Romies" type="462c0819:PsiDirectoryNode" />
+              <item name="php" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Romies" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Romies" type="462c0819:PsiDirectoryNode" />
+              <item name="php" type="462c0819:PsiDirectoryNode" />
+              <item name="mail" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -135,6 +138,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp1\htdocs\Romies\php\mail" />
+      <recent name="C:\xampp1\htdocs\Romies\img" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -158,18 +167,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533661173095</updated>
-      <workItem from="1533661174948" duration="6563000" />
+      <workItem from="1533661174948" duration="13984000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6563000" />
+    <option name="totallyTimeSpent" value="13984000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-7" y="2" width="1378" height="733" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1580938" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21927163" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -178,7 +187,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3344538" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -203,11 +212,6 @@
     <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/mailchimp/mailchimp.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2530" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -218,38 +222,153 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contacto.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="416" column="194" selection-start-line="416" selection-start-column="194" selection-end-line="416" selection-end-column="194" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/img/logo-default.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/logo-dark.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/logo-big.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/logo-footer-small.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/map.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/office-4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/parallax.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/parallax-landing.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/pin.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/updates.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/video-overlay.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/admin-banner.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/apple-touch-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/arrows.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/arrows-dark.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/avatar.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/comida.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/calidad.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/control.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/logo.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/calidad.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="572" column="201" selection-start-line="572" selection-start-column="201" selection-end-line="572" selection-end-column="201" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ventajas.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="620" column="201" selection-start-line="620" selection-start-column="201" selection-end-line="620" selection-end-column="201" />
+        <state relative-caret-position="1">
+          <caret line="495" lean-forward="true" selection-start-line="495" selection-end-line="495" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quienessomos.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="546" column="201" selection-start-line="546" selection-start-column="201" selection-end-line="546" selection-end-column="201" />
+        <state relative-caret-position="388">
+          <caret line="486" selection-start-line="486" selection-end-line="486" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/php/newsletter-subscribe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="34" column="43" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/logo-Ico.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="639">
-          <caret line="796" column="201" selection-start-line="796" selection-start-column="201" selection-end-line="796" selection-end-column="201" />
+        <state relative-caret-position="340">
+          <caret line="735" lean-forward="true" selection-start-line="724" selection-start-column="32" selection-end-line="735" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/php-mailer/examples/contents.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/mail/class.phpmailer.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/contact-form2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/mailchimp/mailchimp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1873" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ventajas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="559" selection-start-line="559" selection-end-line="559" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/contact-form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="187" lean-forward="true" selection-start-line="187" selection-end-line="187" />
+          <folding>
+            <element signature="e#7#106#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/mail/send.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="39" column="4" lean-forward="true" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-935">
+          <caret line="314" column="72" selection-start-line="314" selection-start-column="72" selection-end-line="314" selection-end-column="72" />
         </state>
       </provider>
     </entry>
